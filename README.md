@@ -21,7 +21,7 @@ We built an **autonomous vehicle** using a **Picar-X (SunFounder)** with **Raspb
 - **Raspberry Pi 4 Model B**
 
 ## Team  
-[@Ishaan2602](https://github.com/Ishaan2602), [@BergamotAndSeaweed](https://github.com/BergamotAndSeaweed), @person1, @person2
+[@Ishaan2602](https://github.com/Ishaan2602), [@BergamotAndSeaweed](https://github.com/BergamotAndSeaweed), @[@RoshanBalla](https://github.com/RoshanBalla), William
 
 ## Setup & Run  
 Clone the repo and run the main script:  
