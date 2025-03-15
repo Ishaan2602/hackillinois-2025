@@ -1,9 +1,6 @@
 [submodule "picar-x"]
 	path = picar-x
-	url = https://github.com/sunfounder/picar-x.git
-[submodule "robot-hat"]
-	path = robot-hat
-	url = https://github.com/sunfounder/robot-hat.git
+	url = https://github.com/sunfounder/picar-git
 [submodule "vilib"]
 	path = vilib
 	url = https://github.com/sunfounder/vilib.git
