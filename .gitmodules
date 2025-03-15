@@ -6,4 +6,4 @@
 	url = https://github.com/sunfounder/robot-hat.git
 [submodule "vilib"]
 	path = vilib
-	url = https://github.com/sunfounder/vilib/.git
+	url = https://github.com/sunfounder/vilib.git
