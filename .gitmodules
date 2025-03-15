@@ -3,7 +3,7 @@
 	url = https://github.com/sunfounder/picar-x.git
 [submodule "robot-hat"]
 	path = robot-hat
-	url = https://github.com/sunfounder/robot-hat/tree/v2.0
+	url = https://github.com/sunfounder/robot-hat.git
 [submodule "vilib"]
 	path = vilib
-	url = https://github.com/sunfounder/vilib/tree/picamera2
+	url = https://github.com/sunfounder/vilib/.git
