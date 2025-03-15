@@ -20,7 +20,7 @@ We built an **autonomous vehicle** using a **Picar-X (SunFounder)** with **Raspb
 - **Built-in Speaker (Robot Hat)** (for advertisements)  
 - **Raspberry Pi 4 Model B**
 
-  ## Team  
+## Team  
 **@YourName**, @person1, @person2, @person3  
 
 ## Setup & Run  
